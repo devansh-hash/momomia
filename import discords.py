@@ -77,7 +77,7 @@ async def momo_pic(ctx):
 
 
 # Command to respond with "Momo!"
-
+keep_alive()
 # Start the bot with your token
 bot.run('MTI3MTA5ODA2MDQ5NTI2MTc4OA.GPLxlN.CT10hBJfw-eAUCOBcIVWfCU0nInKzRxz7WWs6w')
 
