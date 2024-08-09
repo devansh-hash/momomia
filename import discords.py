@@ -1,4 +1,6 @@
 import discord
+import os
+from keep_alive import keep_alive
 from discord.ext import commands
 import random
 # Set up the bot with a command prefix
